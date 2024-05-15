@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... muhammadtalhadp892@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... The only fact that is fun about me is i'm a professional Stupid
+- ⚡ Fun fact: ... This is my first "live project on Github" https://dragonmlg001.github.io/my-app/
 
 <!---
 DragonMlg001/DragonMlg001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
